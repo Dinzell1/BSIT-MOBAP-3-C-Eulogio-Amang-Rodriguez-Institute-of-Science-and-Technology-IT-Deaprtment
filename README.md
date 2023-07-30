@@ -1,4 +1,4 @@
-# BSIT-MOBAP-3-C-Eulogio-Amang-Rodriguez-Institute-of-Science-and-Technology-IT-Deaprtment
+# CoinBox_Application_Android
 # CoinBox Application
 ![352418344_1228300307875477_7344944113198332321_n](https://github.com/Dinzell1/BSIT-MOBAP-3-C-Eulogio-Amang-Rodriguez-Institute-of-Science-and-Technology-IT-Deaprtment/assets/140863403/0b3efa68-ba7f-4051-8e19-510de3a39eaf)
 
