@@ -69,7 +69,7 @@ Click the link to watch: https://drive.google.com/drive/folders/1r8WSDVpoe_bgOgi
 
 ## School Name:
 
-- Eulogio "Amang" Rodriguez Insitute of Science and Technology
+Eulogio "Amang" Rodriguez Insitute of Science and Technology
 
 Nagtahan, Sampaloc, Manila, Philippines
 
