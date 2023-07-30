@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721862864460",
+    "project_id": "coinbox-cdc3c",
+    "storage_bucket": "coinbox-cdc3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721862864460:android:5f87d986a55b91c366cee9",
+        "android_client_info": {
+          "package_name": "com.thesis.coinbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721862864460-o4ni4q2sor5ckcjds1dn23nlfpc6qr0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesis.coinbox",
+            "certificate_hash": "1aaf6b7f8f5247addb3f68644e5203eee5fb886c"
+          }
+        },
+        {
+          "client_id": "721862864460-6177h08mdo2t7csembctopvnogruvkrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgK65k80OrFR_0pPXL1eG6SO41ggw6aR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721862864460-6177h08mdo2t7csembctopvnogruvkrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
